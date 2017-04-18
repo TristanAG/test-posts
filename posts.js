@@ -1,6 +1,6 @@
 [
   {
-    "title": First Post,
+    "title": "First Post",
     "body": "<p>It's the content !!</p>"
   },
   {
