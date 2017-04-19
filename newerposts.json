@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "category": "food",
+    "title": "Tacos",
+    "body": "<p>Tacos are <b>bomb</b>, and everyone generally agrees on that</p>"
+  },
+  {
+    "id": 2,
+    "category": "food",
+    "title": "Pizzs",
+    "body": "<p>Pizza is some nice italian food</p>"
+  },
+  {
+    "id": 3,
+    "category": "pokemon",
+    "title": "Snorlax",
+    "body": "<p>Snorlax is a <i>sleepy</i> pokemon</p>"
+  },
+  {
+    "id": 4,
+    "category": "pokemon",
+    "title": "Pikachu",
+    "body": "Pikachu is an electric pokemon!!</p>"
+  }
+]
