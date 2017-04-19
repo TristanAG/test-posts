@@ -1,14 +1,26 @@
 [
   {
-    "title": "Post 1",
-    "body": "First post man!!"
+    "id": 1,
+    "category": "food",
+    "title": "Tacos",
+    "body": "<p>Tacos are <b>bomb</b>, and everyone generally agrees on that</p>"
   },
   {
-    "title": "Post 2",
-    "body": "Second post man!!"
+    "id": 2,
+    "category": "food",
+    "title": "Pizzs",
+    "body": "<p>Pizza is some nice italian food</p>"
   },
   {
-    "title": "Post 3",
-    "body": "Third post man!!"
+    "id": 3,
+    "category": "pokemon",
+    "title": "Snorlax",
+    "body": "<p>Snorlax is a <i>sleepy</i> pokemon</p>"
+  },
+  {
+    "id": 4,
+    "category": "pokemon",
+    "title": "Pikachu",
+    "body": "Pikachu is an <span style="color:yello">electric</span> pokemon!!</p>"
   }
 ]
